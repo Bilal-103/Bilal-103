@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilal Mustafa Butt</h1>
-<h3 align="center">A passionate SOC Analyst from Pakistan</h3>
+<h3 align="center">A passsionate Web Developer from Pakistan</h3>
 
 - 🔭 I’m currently learning **AI & Automation**
 
