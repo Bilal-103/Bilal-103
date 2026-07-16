@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bilal Mustafa Butt</h1>
 <h3 align="center">A passionate SOC Analyst from Pakistan</h3>
 
-- 🔭 I’m currently learning **Penetration Testing and automation**
+- 🔭 I’m currently learning **AI & Automation**
 
-- 👯 I’m looking for Internship Oppertunity in **Offensive Security**
+- 👯 I’m looking for Internship Oppertunity in **Full Stack Development**
 
 - 💬 My cgpa is **3.7**
 
